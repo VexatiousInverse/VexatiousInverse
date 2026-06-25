@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Elias 👋
 
 ### 📊 Data Analyst | Turning raw data into strategic business insights
