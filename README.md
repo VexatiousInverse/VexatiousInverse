@@ -11,7 +11,7 @@ I specialize in statistical modeling, chaotic data cleaning, and building automa
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Data Science & Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -22,8 +22,8 @@ I specialize in statistical modeling, chaotic data cleaning, and building automa
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VexatiousInverse&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexatiousInverse&layout=compact&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username= VexatiousInverse &show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username= VexatiousInverse &layout=compact&theme=radical"/>
 </div>
 <!--
 **VexatiousInverse/VexatiousInverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
